@@ -1,0 +1,26 @@
+{
+    "name": "jacobjlandry/stubble",
+    "description": "Package for creating custom stubs to quickly spin up new resources in any Laravel project",
+    "type": "library",
+    "homepage": "https://github.com/jacobjlandry/stubble",
+    "license": "",
+    "authors": [
+        {
+            "name": "Jacob Landry",
+            "email": "",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jacobjlandry/stubble/issues"
+    },
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}

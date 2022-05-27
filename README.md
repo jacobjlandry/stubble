@@ -1,0 +1,3 @@
+# Stubble
+Package to quickly publish your own custom stubs into your project.
+More info coming soon...
